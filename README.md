@@ -13,7 +13,7 @@ A Computer Hardware Company supply equipments and computer Peripherals across In
 
 To solve the Sales insights problem Data Analytics team is required and IT team managing Database So entire team come up with a solution solving Using 
 ### AIMS Grid
-![AIMS Grid](githubimgs/AIMS.png)
+![AIMS](https://user-images.githubusercontent.com/33232053/116536821-080d0880-a903-11eb-97be-3ae41b4d8e0b.PNG)
 1. Purpose
 2. StakeHolders
 3. End Result
@@ -37,15 +37,16 @@ To solve the Sales insights problem Data Analytics team is required and IT team 
 
 ## Some Pictures of PowerBI
 ### Key Insights
-![key insights](githubimgs/keyinsights.png)
+![keyinsights](https://user-images.githubusercontent.com/33232053/116537190-879ad780-a903-11eb-975e-cb56247e4d47.PNG)
 ### Performance Insights
-![Performance](githubimgs/Performance.png)
+![Performance](https://user-images.githubusercontent.com/33232053/116537248-9ed9c500-a903-11eb-94b8-734003c4df59.PNG)
 ### Profit Analysis
-![Profit](githubimgs/profit.png)
+![Profit](https://user-images.githubusercontent.com/33232053/116537316-b1ec9500-a903-11eb-8a9a-1e94d8682f10.PNG)
 
 
 ## Tableau Dashboard
-![Tableau](githubimgs/Tableau.png)
+![Tableau](https://user-images.githubusercontent.com/33232053/116537373-c3ce3800-a903-11eb-8ed2-52c40c958ee4.PNG)
+
 
 
 
